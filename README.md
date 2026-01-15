@@ -70,3 +70,18 @@ privremene i cache datoteke
 operacijski sustav specifične datoteke
 
 Na taj način u repozitoriju ostaju samo datoteke nužne za izgradnju i razvoj projekta.
+
+
+
+
+Zašto koristimo feature branch?
+
+Feature branch omogućuje razvoj novih funkcionalnosti bez utjecaja na stabilnu main granu te olakšava paralelni rad i kontrolu promjena.
+
+Zašto je main branch protected?
+
+main branch je zaštićen kako bi se spriječile neprovjerene promjene i osiguralo da sav kod prođe Pull Request i review proces.
+
+Što sam naučio kroz Pull Request i review proces?
+
+Naučio sam kako predavati promjene na pregled, važnost jasnih commit poruka te kako review proces poboljšava kvalitetu koda.
